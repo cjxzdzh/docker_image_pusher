@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 vinlic/kimi-free-api
 lobehub/lobe-chat
+yym68686/uni-api
